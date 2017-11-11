@@ -1,0 +1,5 @@
+module CRuby [system] {
+  header "/usr/local/include/ruby-2.4.0/ruby.h"
+  link "ruby"
+  export *
+}
